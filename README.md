@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Expertiza
 =========
 
@@ -55,3 +56,9 @@ When editing existing files:
 
 Please do no go crazy changing old code to match these guidelines; it will just create lots of potential merge conflicts.
 Applying style guidelines to code you add and modify is good enough. :-)
+=======
+Experiza-OSS-E621
+=================
+
+Expertiza OSS project E621 Fall 2012 
+>>>>>>> 493a3c83455aa8a52b35a8be1de708ad7753e3f6
